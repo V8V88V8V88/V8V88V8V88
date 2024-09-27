@@ -85,7 +85,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=v8v88v8v88&theme=aura&hide_border=true&include_all_commits=true&count_private=true" height="140" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v8v88v8v88&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact&card_width=320" height="140" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v8v88v8v88&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" height="140" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=v8v88v8v88&theme=aura&hide_border=true" height="140" alt="GitHub Streak" />
 </div>
 
