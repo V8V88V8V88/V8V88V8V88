@@ -48,12 +48,12 @@
 ![Neovim](https://img.shields.io/badge/neovim-%2311AB00.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-%23000000.svg?style=for-the-badge&logo=zed&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F20.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-## GitHub Stats
 
+## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v8v88v8v88&theme=aura&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v8v88v8v88&theme=aura&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v8v88v8v88&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v8v88v8v88&theme=gotham&hide_border=true" />
 </div>
 
 ---
