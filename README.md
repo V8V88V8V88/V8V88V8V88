@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Vaibhav
 
-## About Me
-
-- 🔭 Currently working on bending computers to my will with clever code
-- 🌱 Learning Rust right now
-- 💬 Specialized in Linux, low-level programming, and cybersecurity
-- 👨‍💻 Check out my projects at [v8v88v8v88.com](https://v8v88v8v88.com)
-- 📫 Contact: v8v88v8v88@protonmail.com
-- ⚡ Fun fact: The cake is a lie! 🍰
+### About Me
+- 🌱 I’m currently learning Rust
+- 🤝 Specialized in Linux and DevOps
+- 🚀 Check out my projects on [GitHub](https://github.com/V8V88V8V88?tab=repositories) or my [Website](https://v8v88v8v88.com)
+- 🔭 Focused on low-level systems development and system programming
+- 📫 Contact: mail me v8v88v8v88@protonmail.com or dm me on [Telegram](https://t.me/v8v88v8v88)
 
 ### Tech Stack:
 
@@ -29,8 +27,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-
+![Nodejs](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=Node.js&logoColor=green)
 #### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -40,7 +37,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### Others
+#### OS & Others
 ![GNU](https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -49,7 +46,8 @@
 ![Zed](https://img.shields.io/badge/Zed-%23000000.svg?style=for-the-badge&logo=zed&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F20.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## GitHub Stats
+## GitHub Stats:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" /><br>
