@@ -51,7 +51,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v8v88v8v88&theme=gotham&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=v8v88v8v88&theme=gotham&hide_border=true" />
 </div>
 
 ---
