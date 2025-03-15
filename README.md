@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vaibhav
 
 ### About Me
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust & Go
 - 🤝 Specialized in Linux and DevOps
 - 🚀 Check out my projects on [GitHub](https://github.com/V8V88V8V88?tab=repositories) or my [Website](https://v8v88v8v88.com)
 - 🔭 Focused on low-level systems development and system programming
