@@ -52,9 +52,16 @@
 ## GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v8v88v8v88&theme=gotham&hide_border=true" />
+  
+![](https://github-readme-stats.vercel.app/api?username=v8v88v8v88&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=v8v88v8v88&theme=gotham&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=v8v88v8v88&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=v8v88v8v88&icon=10&color=6)](https://visitcount.itsvg.in)
+---
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=v8v88v8v88&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
