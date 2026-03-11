@@ -1,67 +1,67 @@
-# 👋 Hi, I'm Vaibhav
-
-### About Me
-- 🌱 I’m currently learning Rust & Go
-- 🤝 Specialized in Linux and DevOps
-- 🚀 Check out my projects on [GitHub](https://github.com/V8V88V8V88?tab=repositories) or my [Website](https://v8v88v8v88.com)
-- 🔭 Focused on low-level systems development and system programming
-- 📫 Contact: mail me v8v88v8v88@protonmail.com or dm me on [Telegram](https://t.me/v8v88v8v88)
-
-### Tech Stack:
-
-#### Low-Level & System Programming
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plasticd&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23FF4500.svg?style=plasticd&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-293036?style=plasticd&logo=gnu-bash&logoColor=white)
-![ASM](https://img.shields.io/badge/ASM-%23000000.svg?style=plasticd&logo=assemblyscript&logoColor=white)
-
-#### Mid & High-Level Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plasticd&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plasticd&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plasticd&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plasticd&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plasticd&logo=go&logoColor=white)
-
-#### Web Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plasticd&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plasticd&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plasticd&logo=react&logoColor=%2361DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=plasticd&logo=svelte&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plasticd&logo=radix-ui&logoColor=white)
-
-#### Databases
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=plasticd&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plasticd&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plasticd&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plasticd&logo=redis&logoColor=white)
-
-#### DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plasticd&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plasticd&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plasticd&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plasticd&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plasticd&logo=amazon-aws&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plasticd&logo=ansible&logoColor=white)
-
-#### OS & Others
-![GNU](https://img.shields.io/badge/GNU-A42E2B?style=plasticd&logo=gnu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plasticd&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/neovim-%2311AB00.svg?style=plasticd&logo=neovim&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F20.svg?style=plasticd&logo=tensorflow&logoColor=white)
-
-## GitHub Stats:
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=v8v88v8v88&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=v8v88v8v88&theme=gotham&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=v8v88v8v88&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=hi%2C+i'm+vaibhav+%E2%80%94+aka+V8;security+researcher+%26+systems+dev;currently+building+XE;deep+in+rust+lately." alt="Typing SVG" />
+</p>
+</p>
 
 ---
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=v8v88v8v88&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
+### whoami
+
+<p align="center">
+cs student. ceh certified. into linux, foss, and low-level systems.<br/>
+building XE right now. going deeper into rust on the side.<br/>
+do full-stack and design, when needed.<br/>
+<br/>
+<a href="https://v8v88v8v88.com">v8v88v8v88.com</a> · <code>v8v88v8v88@protonmail.com</code>
+</p>
+
+---
+
+<p align="center">
+
+**languages** &nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+
+**tools** &nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-%23119463.svg?style=plastic&logo=gtk&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
+![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+
+**web** &nbsp;
+![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=plastic&logo=svelte&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white)
+
+</p>
+
+---
+
+<table align="center"><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" /></td>
+<td><img src="https://nirzak-streak-stats.vercel.app/?user=v8v88v8v88&theme=gotham&hide_border=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></td>
+</tr></table>
+
+---
+
+<p align="center">
+<a href="https://t.me/V8V88V8V88"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=plastic" /></a>
+<a href="https://discord.gg/1012223507767246878"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=plastic" /></a>
+<a href="https://x.com/v8v88v8v88"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=plastic" /></a>
+<a href="https://linkedin.com/in/v8v88v8v88"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic" /></a>
+<a href="https://medium.com/@v8v88v8v88"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=plastic" /></a>
+<a href="https://instagram.com/v8v88v8v88"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=plastic" /></a>
+<a><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fv8v88v8v88&label=visitors&labelColor=%23010101&countColor=%23b1b1b1&style=plastic" /></a>
+</p>
