@@ -8,9 +8,8 @@
 ### whoami
 
 <p align="center">
-cs student. ceh certified. into linux, foss, and low-level systems.<br/>
-building XE right now. going deeper into rust on the side.<br/>
-do full-stack and design, when needed.<br/>
+software engineer. ceh certified. linux, foss, and low-level systems.<br/>
+building XE. exploring systems programming.<br/>
 <br/>
 <a href="https://v8v88v8v88.com">v8v88v8v88.com</a> · <code>v8v88v8v88@protonmail.com</code>
 </p>
