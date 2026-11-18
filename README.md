@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=hi%2C+i'm+vaibhav+%E2%80%94+aka+V8;security+researcher+%26+systems+dev;currently+building+XE;deep+in+rust+lately." alt="Typing SVG" />
 </p>
-</p>
 
 ---
 
@@ -49,7 +48,7 @@ building XE. exploring systems programming.<br/>
 
 <table align="center"><tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" /></td>
-<td><img src="https://nirzak-streak-stats.vercel.app/?user=v8v88v8v88&theme=gotham&hide_border=true" /></td>
+<td><img src="https://streak-stats.demolab.com/?user=v8v88v8v88&theme=gotham&hide_border=true" /></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v8v88v8v88&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></td>
 </tr></table>
 
